@@ -1,0 +1,27 @@
+#title{
+    text-align: center;
+}
+img{
+    border-radius: 200px;
+    display: block;
+    margin: auto;
+    width: auto;
+}
+body{
+    background-image: url('images/bg.jpg');
+}
+#ar{
+    word-spacing: 20px;
+}
+p{
+    text-indent: 10px;
+}
+table {
+    border-collapse: collapse;
+    text-align: center; 
+    width: 40%;
+    height: 20%;   
+}
+table tbody tr td{
+    border: 1px solid black;
+}
